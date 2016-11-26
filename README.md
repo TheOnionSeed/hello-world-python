@@ -11,4 +11,4 @@ A little bit about myself:
 
 HOW TO RUN:
 
-Terminal/Command Prompt command: python ./src/HelloWorld.py
+Terminal/Command Prompt command(without quotes): "python ./src/HelloWorld.py"
