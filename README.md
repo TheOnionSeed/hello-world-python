@@ -7,4 +7,4 @@ A little bit about myself:
   
      -I have experience in HTML,CSS,Javascript, Node.js and Wordpress
 
-Other languages and programs I have used over my programming life are: C#,Java, C++, Unity, Actionscript 3.0(with Adobe flash)
+     -Other languages and programs I have used over my programming life are: C#,Java, C++, Unity, Actionscript 3.0(with Adobe flash)
