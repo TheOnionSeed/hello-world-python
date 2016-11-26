@@ -10,4 +10,5 @@ A little bit about myself:
      -Other languages and programs I have used over my programming life are: C#,Java, C++, Unity, Actionscript 3.0(with Adobe flash)
 
 HOW TO RUN:
+
 Terminal/Command Prompt command: python ./src/HelloWorld.py
